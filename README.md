@@ -1,4 +1,4 @@
-### Hi there 👋
+- ⚡ Fun fact: If you can dream it, you can do it– Walt Disney
 
 <!--
 **hoangviet-98/hoangviet-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: If you can dream it, you can do it– Walt Disney
 -->
